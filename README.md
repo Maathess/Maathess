@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maathess</h1>
-<h3 align="center">A passionate in AI and Data using</h3>
+<h3 align="center">A passionate of AI and Data potential</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maathess&label=Profile%20views&color=0e75b6&style=flat" alt="maathess" /> </p>
 
