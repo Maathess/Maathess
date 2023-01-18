@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **maathess.pro@gmail.com**
+- 📫 You can reach me on **maathess.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
