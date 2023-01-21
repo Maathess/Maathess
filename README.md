@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maathess</h1>
 <h3 align="center">A passionate of AI and Data potential</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maathess&label=Profile%20views&color=0e75b6&style=flat" alt="maathess" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maathess" alt="maathess" /></a> </p>
 
 - 🌱 I’m currently learning **Rust**
 
@@ -23,6 +20,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maathess&" alt="maathess" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maathess&label=Profile%20views&color=0e75b6&style=flat" alt="maathess" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maathess" alt="maathess" /></a> </p>
 
 <a href="https://app.daily.dev/nakomaat"><img src="https://api.daily.dev/devcards/5c45972d3d514e06b5301151a8d0d2bb.png?r=fef" width="400" alt="Maathess KOTHANDAPANI's Dev Card"/></a>
 
