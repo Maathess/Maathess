@@ -14,9 +14,9 @@
 </p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maathess&show_icons=true&locale=en&layout=compact" alt="maathess" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maathess&show_icons=true&locale=en&layout=compact" alt="maathess" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maathess&" alt="maathess" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maathess&" alt="maathess" />
 
 <a href="https://app.daily.dev/nakomaat"><img align="right" src="https://api.daily.dev/devcards/5c45972d3d514e06b5301151a8d0d2bb.png?r=fef" width="300" alt="Maathess KOTHANDAPANI's Dev Card"/></a>
 
