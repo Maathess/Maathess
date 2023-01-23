@@ -9,8 +9,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maathess-kothandapani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maathess-kothandapani" height="30" width="40" /></a>
+  
+<a href="https://twitter.com/nakomaat" target="blank"><img align="center" src="https://camo.githubusercontent.com/1915c75505092958fe88ba3f6ed1f45c20b5c4440bed02c27cb45f741ea5b632/687474703a2f2f6661726d362e7374617469632e666c69636b722e636f6d2f353133362f353432313235393132355f656130366436373637355f6f2e706e67" alt="nakomaat" height="30" width="40" /></a>
+  
+<a href="https://www.youtube.com/c/nakomaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nakomaat" height="30" width="40" /></a>  
+  
 <a href="https://kaggle.com/kmaathess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kmaathess" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nakomaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nakomaat" height="30" width="40" /></a>
 </p>
 <br>
 <br>
