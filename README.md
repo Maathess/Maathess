@@ -2,7 +2,7 @@
 <h3 align="center">A passionate of AI and Data potential</h3>
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently **doing my best to become a Python pro**
 
 - 📫 You can reach me on **maathess.pro@gmail.com**
 
